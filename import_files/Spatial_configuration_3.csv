@@ -1,0 +1,25 @@
+Point X,Point Z,Point Y adjusted,Index,Connection Indices,Cluster,Location,Area,ID,
+0,0,0,0,"1,6,17",,student_single_unit,2430,0,student_single_unit
+0,0,0,1,"0,6,17",,student_multi_unit,7290,1,student_multi_unit
+0,0,0,2,"4,5,6,17",,elderly_individual_unit,5184,2,elderly_individual_unit
+0,0,0,3,"6,8,11,17,19",,elderly_assisted_unit,8748,3,elderly_assisted_unit
+0,0,0,4,"2,6,",,starter_family,13668.75,4,starter_family
+0,0,0,5,"2,4,6",,starter_couples,7354.8,5,starter_couples
+0,0,0,6,"0,1,2,3,4,5,10",,green_space,648,6,green_space
+0,0,0,7,"8,9",,cafeteria_public,400.95,7,cafeteria_public
+0,0,0,8,3,,community_kitchen_residents,20.25,8,community_kitchen_residents
+0,0,0,9,7,,open_library,202.5,9,open_library
+0,0,0,10,6,,market_and_informal _space,251.1,10,market_and_informal _space
+0,0,0,11,3,,care_center,121.5,11,care_center
+0,0,0,12,"0,1,4,5,9",,shared_workingspace,52.65,12,shared_workingspace
+0,0,0,13,-1,,community_contact_center,24.3,13,community_contact_center
+0,0,0,14,-1,,private_cinema,101.25,14,private_cinema
+0,0,0,15,-1,,private_spa,101.25,15,private_spa
+0,0,0,16,-1,,animal _care_center,125.55,16,animal _care_center
+0,0,0,17,"0,1,2,3",,agonistic_spaces_of_encounter,1255,17,agonistic_spaces_of_encounter
+0,0,0,18,"0,1,2,3,4,5",,package_delivery_point,24.3,18,package_delivery_point
+0,0,0,19,5,,gp,153.9,19,gp
+0,0,0,20,"0,1,4,5",,parking_bikes_private,627,20,parking_bikes_private
+0,0,0,21,"2,4,5",,parking_cars_private,8880,21,parking_cars_private
+0,0,0,22,"9,7",,parking_bikes_public,54,22,parking_bikes_public
+0,0,0,23,"9,7",,parking_cars_public,511,23,parking_cars_public
