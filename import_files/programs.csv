@@ -1,0 +1,23 @@
+Program id,Program name,Starting points,Location,Needed voxels,sunlight,daylight,max sound pollution allowed,view,elevation high,elevation low,Notes
+program1,student_single_unit,1,main,"937,5","0,8","1,0","0,3","0,8","0,0","0,0",stuedents split equally between student_single_unit and student_multi_unit
+program2,student_multi_unit,1,main,"937,5","0,8","1,0","0,3","0,8","0,0","0,0",
+program3,elderly_individual_unit,1,main,975,"0,8","1,0","0,2","1,0","0,0","0,8",
+program4,elderly_assisted_unit,2,main,1641,"0,8","1,0","0,2","1,0","0,0","0,8",
+program5,starter_family,1,main,"1282,03125","0,8","1,0","0,2","1,0","0,0","0,0",(voxels for starters split equally between starter_family and starter_couples)
+program6,starter_couples,1,main,"1282,03125","0,8","1,0","0,2","1,0","0,0","0,0",
+program7,cafeteria_public,1,small,157,"0,3","0,7","1,0","0,8","0,0","0,7",
+program8,community_kitchen_residents,1,main,4,"0,3","0,7","1,0","0,8","0,0","0,7",
+program9,open_library,1,small,79,"0,5","0,7","0,0","1,0","0,4","0,6",
+program10,market_and_informal _space,1,small,98,"0,5","0,8","1,0","0,5","0,0","1,0",
+program11,care_center,1,main,24,"0,0","0,5","0,5","0,6","0,7","0,3",
+program12,shared_workingspace,1,small,61,"0,0","0,9","0,3","0,7","0,5","0,5",
+program13,community_contact_center,1,main,11,"0,3","0,5","0,2","0,3","0,5","0,5",
+program14,private_cinema,1,main,41,"0,5","0,8","0,5","1,0","1,0","0,0",?
+program15,animal_care_center,1,small,25,"0,0","0,4","0,3","0,0","0,0","0,7",
+program16,agonistic_spaces_of_encounter,1,main,41,"0,2","0,2","0,5","0,5","0,0","0,0",
+program17,package_delivery_point,1,main,5,"0,0","0,0","1,0","0,0","0,0","0,9",
+program18,gp,1,main,30,"0,0","0,4","0,2","0,0","0,0","0,6",
+program19,parking_bikes_private,1,small,113,"0,0","0,0","1,0","0,0","0,0","0,9",
+program20,parking_cars_private,1,underground,1586,"0,0","0,0","1,0","0,0","0,0","0,9",
+program21,parking_bikes_public,1,small,10,"0,0","0,0","1,0","0,0","0,0","0,9",
+program22,parking_cars_public,1,small,91,"0,0","0,0","1,0","0,0","0,0","0,9",
